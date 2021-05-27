@@ -1,3 +1,3 @@
 # Disaster_Tweets-WordCloud
 
-wordcloud for disaster tweets
+WordCloud for Disaster Tweets.
